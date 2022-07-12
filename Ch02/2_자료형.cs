@@ -16,7 +16,7 @@ namespace Ch02
 {
     internal class _2자료형
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             //정수형
             sbyte num1 = 127; //-128~127까지 ibyte
