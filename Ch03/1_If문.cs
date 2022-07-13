@@ -12,7 +12,7 @@ namespace Ch03
 {
     internal class _1_if문
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             // if
             int num1 = 1;

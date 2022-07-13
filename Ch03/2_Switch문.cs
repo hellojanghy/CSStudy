@@ -12,7 +12,7 @@ namespace Ch03
 {
     internal class _2_Switch문
     {
-        static void Main1(string[] args)
+        static void Mai2n(string[] args)
         {
             Console.Write("숫자 입력 :");
             string strNum = Console.ReadLine();
@@ -22,7 +22,7 @@ namespace Ch03
             {
                 case 0:
                     Console.WriteLine($"{number}는 짝수 입니다.");
-                    break;
+                    break; //이거 통해서 빠져나온다?
                 case 1:
                     Console.WriteLine($"{number}는 홀수 입니다.");
                     break;
