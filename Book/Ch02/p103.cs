@@ -3,14 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//2-48
+//2-53~54
 namespace Book.Ch02
 {
-    internal class p100
+    internal class p103
     {
         static void Main1(string[] args)
         {
-            var number = 100;
+            Console.WriteLine(123456+65432l);
+
+            Console.WriteLine(123456 + 65432L);
         }
     }
 }
