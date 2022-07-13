@@ -12,7 +12,7 @@ namespace Ch03
 {
     internal class _3_For문
     {
-        static void Main(string[] args)
+        static void Mai1n(string[] args)
         {
             // for문
             for(int i=1 ;i<=5 ;i++) //다섯번 반복/  i가 5보다 작으면 실행  한번 돌때마다 +1
