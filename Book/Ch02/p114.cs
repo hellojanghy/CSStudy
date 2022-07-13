@@ -8,7 +8,7 @@ namespace Book.Ch02
 {
     internal class p114
     {
-        static void Main(string[] args)
+        static void Mai1n(string[] args)
         {
             double num = 52.273103;
 
@@ -16,6 +16,11 @@ namespace Book.Ch02
             Console.WriteLine(num.ToString("0.00"));
             Console.WriteLine(num.ToString("0.000"));
             Console.WriteLine(num.ToString("0.0000"));
+
+            Console.WriteLine(52+273);
+            Console.WriteLine("52"+273);
+            Console.WriteLine(52+"273");
+            Console.WriteLine(52+273);
         }
     }
 }
