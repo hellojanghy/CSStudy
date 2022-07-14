@@ -25,7 +25,7 @@ namespace Ch04
             Console.WriteLine("몫 : {0}, 나머지 : {1}", +num3, num4);
 
 
-        }// end of Main
+        } // end of Main
 
         public static void MyDivider(int n1, int n2, ref int result1, ref int result2)
         {
