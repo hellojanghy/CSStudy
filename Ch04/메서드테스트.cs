@@ -11,6 +11,7 @@ namespace Ch04
         static void Main(string[] args)
         {
             Console.WriteLine("학원에서 작업");
+            Console.WriteLine("집에서 작업");
         }
     }
 }
