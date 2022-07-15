@@ -8,10 +8,10 @@ namespace Book.Ch03
 {
     internal class p147
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             ConsoleKeyInfo info = Console.ReadKey();
-            /*switch (info.key)
+            switch (info.key)
             {
                 case ConsoleKey.UpArrow:
                     Console.WriteLine("위로 이동");
@@ -30,7 +30,7 @@ namespace Book.Ch03
                     Console.WriteLine("다른키를 눌렀습니다.");
                     break ;
 
-            */
+            
             }
 
 
