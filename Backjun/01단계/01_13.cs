@@ -12,22 +12,28 @@ namespace Backjun._01단계
 {
     internal class _01_13
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
+            /*
             string str1 = Console.ReadLine();
-            Console.WriteLine();
             string str2 = Console.ReadLine();
 
-            //string str2[0];
-            int r1 = int.Parse(str1); //문자에서 숫자로 변환
+            int r1 = int.Parse(str1); 
             int r2 = int.Parse(str2);
 
-            int[] int1 = new int[r2];
+            Console.WriteLine(r1 * (r2%10));
+            Console.WriteLine(r1 * ((r2/10) % 10));
+            Console.WriteLine(r1 * ((r2/100) % 10));
+            Console.WriteLine(r1 * r2);
+            */
 
-            int n1 = int1[0];
-            Console.WriteLine(r1 * n1);
-            //Console.WriteLine(r1*r2);
+            string str1 = Console.ReadLine();
+            string str2 = Console.ReadLine();
 
+            Console.WriteLine(int.Parse(str1) * (int)Char.GetNumericValue(str2[2]));
+            Console.WriteLine(int.Parse(str1) * (int)Char.GetNumericValue(str2[1]));
+            Console.WriteLine(int.Parse(str1) * (int)Char.GetNumericValue(str2[0]));
+            Console.WriteLine(int.Parse(str1) * int.Parse(str2));
         }
     }
 }
