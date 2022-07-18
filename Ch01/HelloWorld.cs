@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 /*
- * 날짜 : 2022 07월 12일
+ * 날짜 : 2022/07/12
  * 이름 : 장혜영
  * 내용 : C# 개발환경 설정, Hello World 출력 교재 p44
  */
@@ -13,7 +13,7 @@ namespace Ch01
     internal class HelloWorld
     {
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             //기본 출력
             Console.WriteLine("Hello World!");
