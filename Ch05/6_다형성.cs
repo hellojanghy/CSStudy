@@ -17,7 +17,7 @@ namespace Ch05
 {
     internal class _6_다형성
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             // 다형성을 적용한 객체 생성
             Animal a1 = new Tiger();
