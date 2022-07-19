@@ -8,7 +8,7 @@ namespace Ch05.Sub04
 {
     internal class Car
     {
-        //속성(필드)
+        //상속에서 자식클래스가 참조할 수 있도록 protected로 수정
         protected string name;
         protected string color;
         protected int speed;
