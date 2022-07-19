@@ -17,10 +17,10 @@ namespace Book.Ch04
                 for (int j = 0; j < 10; j++)
                 {
                     Console.WriteLine("내부 반복문");
-                    goto doNotUse;
+       //             goto doNotUse;
                 }
             }
-            doNotUse;
+        //    doNotUse;
             Console.WriteLine("goto 키워드");
         }
     }

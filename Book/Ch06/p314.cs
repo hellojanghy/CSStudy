@@ -6,6 +6,6 @@ using System.Threading.Tasks;
 
 namespace Book.Ch06
 {
-    internal class p314
+    internal class p314 { 
     }
 }

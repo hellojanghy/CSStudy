@@ -11,7 +11,7 @@ namespace Book.Ch03
         static void Main1(string[] args)
         {
             ConsoleKeyInfo info = Console.ReadKey();
-            switch (info.key)
+            switch (info.Key)
             {
                 case ConsoleKey.UpArrow:
                     Console.WriteLine("위로 이동");
