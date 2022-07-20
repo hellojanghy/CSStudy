@@ -8,7 +8,7 @@ namespace Book.Ch04
 {
     internal class 연습문제
     {
-        static void Main(string[] args)
+        static void Mai1n(string[] args)
         {
             //연습문제 p197_10
 
