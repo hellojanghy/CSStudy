@@ -18,7 +18,5 @@ namespace Ch06.sub02
 
         public void SoundUp();
         public void SoundDown();
-
-
     }
 }

@@ -5,13 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Ch06.Sub02
-{
-    /*internal class LgRemoteControl : IRemoteControl 
+{/*
+    internal class LGRemoteControl : IRemoteControl
     {
         public void ChDown()
         {
             Console.WriteLine("LG ChDown...");
         }
+
         public void ChUp()
         {
             Console.WriteLine("LG ChUp...");

@@ -17,42 +17,38 @@ namespace Ch06
 {
     internal class _2_인터페이스
     {
-        static void (string[] args)
+        static void Main2(string[] args)
         {
-            //////////////////////////////////////////
-            //인터페이스로 공통 클래스 구조설계에 활용
-            //////////////////////////////////////////
-            In lg = new Lg();
-            In samsung = new Sam();
+            ///////////////////////////////////////////
+            // 인터페이스로 공통 클래스 구조설계에 활용
+            ///////////////////////////////////////////
+           // IRemoteControl lg = new LGRemoteControl();
+            //IRemoteControl samsung = new SamsungRemoteControl();
 
-            lg.PowerOn();
-            lg.ChDown();
-            lg.SoundDown();
+           // lg.PowerOn();
+           // lg.ChUp();
+            //lg.SoundUp();
 
-            samsung.PowerOn();
-            samsung.ChDown();
-            samsung.SoundDown();
+           // samsung.PowerOn();
+           // samsung.ChDown();
+           // samsung.SoundDown();
 
-
-            //////////////////////////////////////////
-            //인터페이스로 다중 상속에 활용 (지양해야함)
-            //////////////////////////////////////////
+            ///////////////////////////////////////////
+            // 인터페이스로 다중 상속에 활용
+            ///////////////////////////////////////////
             TV smartTV = new TV();
             smartTV.PowerOn();
             smartTV.Booting();
             smartTV.AccessInternet();
 
-
-
-            //////////////////////////////////////////
-            //인터페이스로 객체간 결합도 완화에 활용 중요!***
-            //////////////////////////////////////////
+            ///////////////////////////////////////////
+            // 인터페이스로 객체간 결합도 완화에 활용
+            ///////////////////////////////////////////
             Bulb bulb = new Bulb();
             Socket socket = new Cable(bulb);
 
             socket.SwitchOn();
             socket.SwitchOff();
-
         }
     }
 }
