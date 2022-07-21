@@ -41,7 +41,7 @@ namespace Exam._02단계
                     //정렬된 배열 출력하기
                     foreach (var item in arr)
                     {
-                        Console.WriteLine(n + " ");
+                        Console.WriteLine(j + " ");
                     }
                 }
             }

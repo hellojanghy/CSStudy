@@ -29,7 +29,7 @@ namespace Exam._02단계
             Console.WriteLine("검색할 숫자 입력: ");
             int value = int.Parse(Console.ReadLine());
 
-            int start 0;
+            int start = 0;
             int end = arr.Length - 1;
             int loc = 0;
             bool state = false;
@@ -53,7 +53,7 @@ namespace Exam._02단계
                     break;
                 }
                 if (state)
-                    Console.WriteLine("찾은 위치 : {0}번쨰 있습니다." loc + 1);
+                    Console.WriteLine("찾은 위치 : {0}번쨰 있습니다.", loc + 1);
                 else
                     Console.WriteLine("찾는 숫자가 없습니다.");
             }

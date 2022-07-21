@@ -12,7 +12,7 @@ namespace Exam._02단계
 {
     internal class _02_01
     {
-        static void Main1(string[] args)
+        static void Mai1n(string[] args)
         {
             char[] str = { 'I', ' ', 'L', 'O', 'V', 'E', ' ', 'Y','O','U' };
             int row, col;
