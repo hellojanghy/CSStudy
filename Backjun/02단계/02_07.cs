@@ -8,5 +8,9 @@ namespace Backjun._02단계
 {
     internal class _02_07
     {
+        static void Main(string[] args)
+        {
+              
+        }
     }
 }

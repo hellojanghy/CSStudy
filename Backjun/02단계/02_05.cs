@@ -14,18 +14,23 @@ namespace Backjun._02단계
             int H = int.Parse(a[0]);
             int M = int.Parse(a[1]);
 
+            int m = M - 45;
 
-
-            if (H == 0)
-                H += 24;
-
-            if (M < 45)
+            if (m < 0)
             {
-                H--;
-                M += 60;
+                if (H == 0)
+                {
+                    H = 23;
+                    m += 60;
+                }
+                else
+                {
+                    H--;
+                    m += 60;
+                }
             }
-
-            Console.WriteLine("{0} {1}",H, M - 45);
+            
+            Console.WriteLine("{0} {1}",H, m);
             
         }
     }
