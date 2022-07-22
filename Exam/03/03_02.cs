@@ -8,7 +8,7 @@ using System.Threading.Tasks;
  * 이름 : 장혜영
  * 내용 : 클래스 연습문제
  */
-namesp
+
 namespace Exam._03
 {
 

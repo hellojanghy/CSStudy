@@ -37,11 +37,11 @@ namespace Exam._03
     {
         static void Main(string[] args)
         {
-            Buyer buyer = new Customer();
-            Seller seller = new Customer();
+           // Buyer buyer = new Customer();
+           // Seller seller = new Customer();
 
-            buyer.Buy();
-            seller.Sell();
+            //buyer.Buy();
+            //seller.Sell();
         }
     }
 }
