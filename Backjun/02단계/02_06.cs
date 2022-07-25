@@ -8,12 +8,11 @@ namespace Backjun._02단계
 {
     internal class _02_06
     {
-        static void Main1(string[] args)
+        static void Mai1n(string[] args)
         {
             string[] a = Console.ReadLine().Split(' ');
             int H = int.Parse(a[0]);
             int M = int.Parse(a[1]);
-
             string b = Console.ReadLine();
             int P = int.Parse(b);
 

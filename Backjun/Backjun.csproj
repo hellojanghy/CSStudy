@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="03단계\" />
     <Folder Include="10단계\" />
     <Folder Include="09단계\" />
     <Folder Include="08단계\" />
