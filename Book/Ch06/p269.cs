@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//6-4
 namespace Book.Ch06
 {
     internal class p269
@@ -20,7 +20,7 @@ namespace Book.Ch06
                 return output;
             }
 
-            static void Main(string[] args)
+            static void Main1(string[] args)
             {
                 Test test = new Test();
                 Console.WriteLine(test.Sum(1,100));
