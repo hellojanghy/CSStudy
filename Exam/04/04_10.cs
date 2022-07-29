@@ -66,7 +66,7 @@ namespace Exam._04
 
     internal class _04_10
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Worker    worker = new Worker("김유신");
             Developer developer = new Developer("김춘추");

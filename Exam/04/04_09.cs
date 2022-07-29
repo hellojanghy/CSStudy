@@ -58,7 +58,7 @@ namespace Exam._04
     }
     internal class _04_09
     {
-        static void Main(string[] args)
+        static void Ma1in(string[] args)
         {
             Person kim = new Person("김유신", 24);
             Student jang = new Student("장보고", 26,"부경대","영문학과");

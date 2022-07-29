@@ -32,7 +32,7 @@ namespace Exam._04
 
     internal class _04_07
     {
-        static void Main(string[] args)
+        static void Mai1n(string[] args)
         {
             Aritists[] famousArts = {
                 new Aritists("레오나드로 다빈치", "이탈리아", 1452),

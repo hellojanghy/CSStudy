@@ -35,7 +35,7 @@ namespace Exam._03
     }
     internal class _03_10
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
            // Buyer buyer = new Customer();
            // Seller seller = new Customer();
