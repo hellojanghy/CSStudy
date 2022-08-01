@@ -1,0 +1,17 @@
+C:\Users\601\Desktop\20220712\CSStudy\project1\bin\Debug\net6.0-windows\project1.exe
+C:\Users\601\Desktop\20220712\CSStudy\project1\bin\Debug\net6.0-windows\project1.deps.json
+C:\Users\601\Desktop\20220712\CSStudy\project1\bin\Debug\net6.0-windows\project1.runtimeconfig.json
+C:\Users\601\Desktop\20220712\CSStudy\project1\bin\Debug\net6.0-windows\project1.dll
+C:\Users\601\Desktop\20220712\CSStudy\project1\bin\Debug\net6.0-windows\project1.pdb
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\project1.csproj.AssemblyReference.cache
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\project1.Form1.resources
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\project1.csproj.GenerateResource.cache
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\project1.AssemblyInfoInputs.cache
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\project1.AssemblyInfo.cs
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\project1.csproj.CoreCompileInputs.cache
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\project1.dll
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\refint\project1.dll
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\project1.pdb
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\project1.genruntimeconfig.cache
+C:\Users\601\Desktop\20220712\CSStudy\project1\obj\Debug\net6.0-windows\ref\project1.dll
