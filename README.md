@@ -49,7 +49,6 @@
 	- 3.Linq
 ## Ch10. 데이터베이스 
 ## Ch11. 윈도우 폼
-## Exam
 ## project1. 계산기
 ## project2. 데이터 매니저
 ## project3. 오목
