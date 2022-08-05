@@ -73,7 +73,7 @@ namespace Exam._10
 
     internal class _10_10
     {
-        static void Main(string[] args)
+        static void Mai1n(string[] args)
         {
             UserHashTable ht = new UserHashTable();
 
