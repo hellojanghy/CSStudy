@@ -6,21 +6,19 @@ using System.Threading.Tasks;
 
 namespace Backjun._03단계
 {
-    internal class _03_03
+    internal class _03_05
     {
         static void Mai1n(string[] args)
         {
             string n = Console.ReadLine();
             int num = int.Parse(n);
-            int X = 0;
-
-            for (int i = 0; i <= num; i++)
+            StringBuilder result = new StringBuilder();
+            for (int i = 1; i <= num; i++)
             {
-                
-                X += i;
-                
+                result.Append($"{i}\n");
             }
-            Console.WriteLine(X);
+            Console.WriteLine(result.ToString());
         }
     }
 }
+
