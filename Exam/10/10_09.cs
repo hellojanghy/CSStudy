@@ -3,14 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
- *  날짜 : 2022/07/29
- *  이름 : 장혜영
- *  내용 : 람다식 연습문제
- */
-namespace Exam._06
+
+namespace Exam._10
 {
-    internal class _06_05
+    internal class _10_09
     {
+
     }
 }

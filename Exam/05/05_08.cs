@@ -9,10 +9,10 @@ using System.Threading.Tasks;
  *  내용 : 컬렉션 연습문제
  */
 namespace Exam._05
-{
+{/*
     internal class _05_08
     {
-        static void Main(string[] args)
+        static void Mai1n(string[] args)
         {
             Random random = new Random();
             int answer = 0;
@@ -62,5 +62,5 @@ namespace Exam._05
             } while (true);
             Console.WriteLine("프로그램이 정상 종료 되었습니다.");
         }
-    }
+    }*/
 }

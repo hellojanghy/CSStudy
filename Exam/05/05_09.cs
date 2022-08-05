@@ -53,7 +53,7 @@ namespace Exam._05
 
     internal class _05_09
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             Mystack mStack = new Mystack();
             Random rand = new Random();
@@ -62,7 +62,7 @@ namespace Exam._05
             {
                 int val = rand.Next();
                 mStack.Push(val);
-                Console.WriteLine($);
+                Console.WriteLine();
             }
 
             Console.WriteLine();

@@ -12,7 +12,7 @@ namespace Exam._05
 {
     internal class _05_07
     {
-        static void Main(string[] args)
+        static void Mai1n1(string[] args)
         {
             while (true)
             {

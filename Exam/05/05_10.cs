@@ -12,7 +12,7 @@ namespace Exam._05
 {
     internal class _05_10
     {
-        static void Main(string[] args)
+        static void Mai4n(string[] args)
         {
             //배열
             string[] arrNames = new string[5];

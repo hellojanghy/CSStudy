@@ -39,19 +39,19 @@ namespace Exam._05
             //직렬화
             using (FileStream fs = new FileStream(path, FileMode.Create))
             {
-                BinaryFormatter serializer = new BinaryFormatter();
+              //  BinaryFormatter serializer = new BinaryFormatter();
 
                 Orange orange = new Orange("캘리포니아", 5000);
-                serializer.Serialize(fs, orange);
+             //   serializer.Serialize(fs, orange);
             }
 
             //역직렬화
             using (FileStream fs = new FileStream(path, FileMode.Open))
             {
-                BinaryFormatter deserializer = new BinaryFormatter();
+              //  BinaryFormatter deserializer = new BinaryFormatter();
 
-                Orange orange = (Orange)  deserializer Deserializer(fs);
-                orange.Show();
+               // Orange orange = (Orange)  deserializer Deserializer(fs);
+               // orange.Show();
             }
         }
     }
